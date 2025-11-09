@@ -1,9 +1,9 @@
-## ¡¡Bienvenid@ a mi perfil!!
+## ¡¡Bienvenid@ a mi perfil!! 
 
-🌱 Estoy aprendiendo sobre Java
+🌱 Aprendí cosas sobre Java. Estoy aprendiendo sobre React y Angular.
 
-💬 Me apasiona aprender cosas nuevas
+💬 Me apasiona aprender cosas nuevas.
 
-📫 Eclipse, Visual Studio Code
+📫 Eclipse, Visual Studio Code.
 
 ⚡ Mi lema es "¡Nunca te rindas!"
