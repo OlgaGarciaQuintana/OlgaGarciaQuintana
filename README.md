@@ -2,7 +2,7 @@
 
 💻 Estudiante de Informática
 📍 Valencia
-🔴 Fan del color rojo
+🔴 COLOR RED LOVER
 
 ---
 
