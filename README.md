@@ -8,9 +8,9 @@
 
 ### 🌱 Aprendiendo y creciendo
 
-* Desarrollo en **Java**
-* Aprendiendo **React** y **Angular**
-* Explorando nuevas tecnologías y mejorando cada día
+𖹭 Desarrollo en **Java**
+𖹭 Aprendiendo **React** y **Angular**
+𖹭 Explorando nuevas tecnologías y mejorando cada día
 
 ---
 
