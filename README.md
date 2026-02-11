@@ -24,8 +24,8 @@
 
 ### 💬 Sobre mí
 
-Me gusta aprender cosas nuevas, superar retos y seguir avanzando aunque el camino sea difícil.
-Siempre intento mejorar un poco más cada día.
+* Me gusta aprender cosas nuevas, superar retos y seguir avanzando aunque el camino sea difícil.
+* Siempre intento mejorar un poco más cada día.
 
 ---
 
