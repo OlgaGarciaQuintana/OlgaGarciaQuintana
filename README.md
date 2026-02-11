@@ -1,4 +1,4 @@
-##  ¡Hola! Soy Olga :D
+##  ¡Holi! Soy Olga ( ˶ˆᗜˆ˵ )
 
 💻 Estudiante de Informática
 📍 Valencia
