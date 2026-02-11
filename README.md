@@ -22,14 +22,6 @@
 ִ ࣪𖤐 Visual Studio Code
 ִ ࣪𖤐 Git & GitHub
 ```
----
-
-### 💬 Sobre mí
-```
-✦ Me gusta aprender cosas nuevas, superar retos y seguir avanzando aunque el camino sea difícil.
-✦ Siempre intento mejorar un poco más cada día.
-```
----
 
 ### ⚡ Mi lema
 
