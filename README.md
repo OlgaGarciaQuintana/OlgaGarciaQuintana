@@ -33,7 +33,7 @@
 
 ### ⚡ Mi lema
 
-**Nunca te rindas. ** 𐔌՞. .՞𐦯
+**Nunca te rindas. **
 
 ```
       へ   ♡ ╱|、
