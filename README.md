@@ -1,4 +1,4 @@
-## ¡¡Bienvenid@ a mi perfil!! 
+## ¡¡Bienvenid@ a mi perfil!! :D
 
 🌱 Aprendí cosas sobre Java. Estoy aprendiendo sobre React y Angular.
 
