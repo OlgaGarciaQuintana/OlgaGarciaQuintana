@@ -17,23 +17,23 @@
 ---
 
 ### 🛠️ Entorno de trabajo
-
-* Eclipse
-* Visual Studio Code
-* Git & GitHub
-
+```
+ִ ࣪𖤐 Eclipse
+ִ ࣪𖤐 Visual Studio Code
+ִ ࣪𖤐 Git & GitHub
+```
 ---
 
 ### 💬 Sobre mí
-
-* Me gusta aprender cosas nuevas, superar retos y seguir avanzando aunque el camino sea difícil.
-* Siempre intento mejorar un poco más cada día.
-
+```
+✦ Me gusta aprender cosas nuevas, superar retos y seguir avanzando aunque el camino sea difícil.
+✦ Siempre intento mejorar un poco más cada día.
+```
 ---
 
 ### ⚡ Mi lema
 
-**Nunca te rindas.**
+**Nunca te rindas. 𐔌՞. .՞𐦯 **
 
 ```
       へ   ♡ ╱|、
